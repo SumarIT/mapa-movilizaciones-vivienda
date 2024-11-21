@@ -19,12 +19,13 @@ const iconGrey = L.icon({
 d3.csv("data/localizaciones.csv", (data) => {
     const date = new Date(data.fecha);
     const icon = date > new Date() || isNaN(date) ? iconOk : iconGrey;
-    const popupTitle = `<span>${data['direccion']}</span>`;
+    const popupClaim = data['lema'] ? `<span class="claim">${data['lema']}</span>` : '';
+    const popupAddress = `<span class="address">${data['direccion']}</span>`;
     const popupDate = isNaN(date)
-        ? '<span class="grey"></span>'
-        : `<span>${date.getUTCDate()}.${date.getUTCMonth()+1}.${date.getFullYear()} - ${date.toLocaleTimeString()}</span>`;
+        ? '<span class="date grey"></span>'
+        : `<span class="date">${date.getUTCDate()}.${date.getUTCMonth()+1}.${date.getFullYear()} - ${date.toLocaleTimeString()}</span>`;
     const marker = L.marker([+data.latitud, +data.longitud], { icon });
     marker.addTo(map);
-    marker.bindPopup(`${popupTitle}${popupDate}`);
+    marker.bindPopup(`${popupClaim}${popupAddress}${popupDate}`);
     markers.push(marker);
 });
