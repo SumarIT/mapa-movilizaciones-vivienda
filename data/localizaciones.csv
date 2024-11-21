@@ -1,32 +1,30 @@
-fecha,direccion,latitud,longitud, lema
-2024-09-26T11:30:00,"Plaza Castilla, nº1 - 09003 Burgos",42.3377711,-3.7111692
 fecha,direccion,latitud,longitud,lema
-2024-04-20T12:00:00,"Plaza Gral. Weyler,38000 Tenerife",28.4676693,-16.2586918.17z,Canarias tiene un límite ¡Por un cambio de modelo!
-2024-04-20T12:00:00,"Auditorio Alfredo Kraus, 35000 Gran Canaria",28.129976,-15.451433.17z,Canarias tiene un límite ¡Por un cambio de modelo!
-2024-04-20T12:00:00,"Cabildo Insular de Fuerteventura, 35000 Fuerteventura",28.4985932,-13.8632117.17z,Canarias tiene un límite ¡Por un cambio de modelo!
-2024-04-20T12:00:00,"Parque Jose Ramirez Cerda, 35340 Lanzarote",28.9576759,-13.552467.17z, Canarias tiene un límite ¡Por un cambio de modelo!
-2024-04-20T12:00:00,"Calle Dr. Quintero, 38911 El Hierro" 27.8059903,-17.9175449.15.17z,Canarias tiene un límite ¡Por un cambio de modelo!
+2024-04-20T12:00:00,"Plaza Gral. Weyler,38000 Tenerife",28.4676693,-16.2586918,"Canarias tiene un límite ¡Por un cambio de modelo!"
+2024-04-20T12:00:00,"Auditorio Alfredo Kraus, 35000 Gran Canaria",28.129976,-15.451433,"Canarias tiene un límite ¡Por un cambio de modelo!"
+2024-04-20T12:00:00,"Cabildo Insular de Fuerteventura, 35000 Fuerteventura",28.4985932,-13.8632117,"Canarias tiene un límite ¡Por un cambio de modelo!"
+2024-04-20T12:00:00,"Parque Jose Ramirez Cerda, 35340 Lanzarote",28.9576759,-13.552467," Canarias tiene un límite ¡Por un cambio de modelo!"
+2024-04-20T12:00:00,"Calle Dr. Quintero, 38911 El Hierro" 27.8059903,-17.9175449.15,"Canarias tiene un límite ¡Por un cambio de modelo!"
 2024-04-20T12:00:00,"Puntagorda, 30593 La Palma",28.7704435,-18.0004412.14z,Canarias tiene un límite ¡Por un cambio de modelo!
-2024-04-25T19:00:00,"Parc de les Estacions, 07015 Mallorca",39.5780477,2.6525581.17z,Mallorca no se vende
-2024-06-29T11:30:00,"Plaza de la Merced, 29012 Málaga",36.7236233,-4.4198148.17z,Málaga para vivir. No para sobrevivir
-2024-09-18T19:00:00,"Passatge de Bofill, nº 11- 08013 Barcelona",41.402881,2.175124.17z,No pagarem 1000 euros per una merda d'habitació
-2024-10-11T19:00:00, "Porta do Sol, 36202 Vigo",42.2379923,-8.7280323.17z,A vivenda é un dereito, non un negocio
+2024-04-25T19:00:00,"Parc de les Estacions, 07015 Mallorca",39.5780477,2.6525581,"Mallorca no se vende"
+2024-06-29T11:30:00,"Plaza de la Merced, 29012 Málaga",36.7236233,-4.4198148,"Málaga para vivir. No para sobrevivir"
+2024-09-18T19:00:00,"Passatge de Bofill, nº 11- 08013 Barcelona",41.402881,2.175124,"No pagarem 1000 euros per una merda d'habitació"
+2024-10-11T19:00:00,"Porta do Sol, 36202 Vigo",42.2379923,-8.7280323,"A vivenda é un dereito, non un negocio"
 2024-10-13T12:00:00,"Estación de Atocha, 28007 Madrid", 40.4086235,-3.6944535.17.49z,La vivienda es un derecho, no un negocio
-2024-10-19T19:00:00,"Estación de Tren Alicante, 03006 Alicante",38.3454504,-0.5010582.17z, Cases per a viure
+2024-10-19T19:00:00,"Estación de Tren Alicante, 03006 Alicante",38.3454504,-0.5010582," Cases per a viure"
 2024-10-19T18:00:00,"Torres de Serrans, 43006 Valencia",40.4086235,-3.6944535.17.49z,València s'ofega
-2024-10-20T12:00:00,"Playa de las Américas, 38660, Tenerife",28.0619715,-16.7366175.17z, Canarias tiene un límite
-2024-10-20T12:00:00,"Expomeloneras, 351000 Gran Canaria",27.7433421,-15.6056417.17z,Canarias tiene un límite
+2024-10-20T12:00:00,"Playa de las Américas, 38660, Tenerife",28.0619715,-16.7366175," Canarias tiene un límite"
+2024-10-20T12:00:00,"Expomeloneras, 351000 Gran Canaria",27.7433421,-15.6056417,"Canarias tiene un límite"
 2024-10-20T12:00:00,"Corralejo, 35660 Fuerteventura",28.7319901,-13.879261.15.33z,Canarias tiene un límite
-2024-10-20T12:00:00,"Hotel Fariones Puerto del Carmen, 35510 Lanzarote",28.9202159,-13.6684538.17z,Canarias tiene un límite
+2024-10-20T12:00:00,"Hotel Fariones Puerto del Carmen, 35510 Lanzarote",28.9202159,-13.6684538,"Canarias tiene un límite"
 2024-11-09T12:00:00,"Palacio de San Telmo 41013 Sevilla",37.3802472,-5.996197.16z,La ciudad no es un negocio, es un lugar para vivir
-2024-11-09T11:30:00,"Plaza de la Merced, 29012 Málaga, 36.7236233,-4.4198148.17z,La ciudad no es un negocio, es un lugar para vivir
-2024-11-09T11:30:00,"Plaza de San Antonio 11003 Cádiz",36.5348321,-6.3015215.17z,Si nos echan de los barrios, paramos la ciudad
-2024-11-09T12:30:00,"Plaza Cruz Roja, 30003 Murcia" 37.9821177,-1.1291046.17z,Por el derecho a la vivienda
-2024-11-10T12:00:00,"Plaza de Gabriel Lodares, 02001 Albacete",38.9904134,-1.8590994.17z,La vivienda es un derecho, no un negocio
-2024-11-23T17:00:00, "Plaça Universitat, 08007 Barcelona",41.3856863,2.1613898.16z,¡Se ha acabado!
-2024-11-23T12:00:00,"Plaza del Mío Cid, 09004 Burgos",42.3408019 ,-3.7022355.17z
-2024-11-23T12:00:00,"Plaza del Arenal, 11403 Jerez",36.6816572,-6.1406088.17z,Por el derecho a la vivienda
-2024-11-23T17:00:00, "Paseo Begoña, 33201 Gijón", 43.5385619,-5.6638784.17z, ¡No al negocio de la vivienda!
-2024-11-30T13:00:00,"Avda Gertrudis Gómez de Avellaneda (Actur), 50018 Zaragoza",41.6690411,-0.892581.17z,Contra su negocio por el derecho a la vivienda
-2024-12-01T12:00:00,"Plaza de la Constitución, 37001 Salamanca,40.9662416,-5.6626181.17z,Se acabó: bajemos los alquileres
-2024-12-14T13:00:00,"Plaza Biribila, 48008 Bilbao",43.2611941,-2.9296503.17z,¡Por el derecho a la vivienda, acabemos con el negocio!
+2024-11-09T11:30:00,"Plaza de la Merced, 29012 Málaga, 36.7236233,-4.4198148,"La ciudad no es un negocio, es un lugar para vivir"
+2024-11-09T11:30:00,"Plaza de San Antonio 11003 Cádiz",36.5348321,-6.3015215,"Si nos echan de los barrios, paramos la ciudad"
+2024-11-09T12:30:00,"Plaza Cruz Roja, 30003 Murcia" 37.9821177,-1.1291046,"Por el derecho a la vivienda"
+2024-11-10T12:00:00,"Plaza de Gabriel Lodares, 02001 Albacete",38.9904134,-1.8590994,"La vivienda es un derecho, no un negocio"
+2024-11-23T17:00:00,"Plaça Universitat, 08007 Barcelona",41.3856863,2.1613898.16z,¡Se ha acabado!
+2024-11-23T12:00:00,"Plaza del Mío Cid, 09004 Burgos",42.3408019 ,-3.7022355
+2024-11-23T12:00:00,"Plaza del Arenal, 11403 Jerez",36.6816572,-6.1406088,"Por el derecho a la vivienda"
+2024-11-23T17:00:00,"Paseo Begoña, 33201 Gijón", 43.5385619,-5.6638784," ¡No al negocio de la vivienda!"
+2024-11-30T13:00:00,"Avda Gertrudis Gómez de Avellaneda (Actur), 50018 Zaragoza",41.6690411,-0.892581,"Contra su negocio por el derecho a la vivienda"
+2024-12-01T12:00:00,"Plaza de la Constitución, 37001 Salamanca,40.9662416,-5.6626181,"Se acabó: bajemos los alquileres"
+2024-12-14T13:00:00,"Plaza Biribila, 48008 Bilbao",43.2611941,-2.9296503,"¡Por el derecho a la vivienda, acabemos con el negocio!"
